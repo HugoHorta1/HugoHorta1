@@ -1,9 +1,9 @@
-## Hello, I am [Hugo Horta!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hello, I am [Hugo Horta!](http://aboutme.mywebcommunity.org/)<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=HugoHorta1&label=Views&color=blue&style=plastic" alt="" /> </p>
 
-<a href="#>
+<a href="#">
   <img align="left" alt="Hugo Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="#">
