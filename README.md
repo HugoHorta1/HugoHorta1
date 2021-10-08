@@ -37,15 +37,6 @@ I’m currently working on ...
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 
-## 🛠️Code Activity
-
-<p align="left">
-  <a href="https://github.com/HugoHorta1">
-    <a href="https://github.com/HugoHorta1"><img height="185px" src="https://github-readme-stats.vercel.app/api?username=HugoHorta1&show_icons=true&theme=dark&line_height=27"/>
-    <img height="185px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoHorta1&layout=compact&theme=dark"/>
-    </a>
-  </a>
-</p>
 
 ## 🛠️Projects
 
